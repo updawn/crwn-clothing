@@ -1,0 +1,7 @@
+src/assets/*
+coverage/*
+build/*
+__generated__/
+~*
+.vscode/*
+.DS_Store
